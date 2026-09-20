@@ -16,10 +16,10 @@ la nota.
 
 | Nombre completo | Código |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|Sebastian Castro Cárdenas| |
+|Juan Stevan Cataño Hernandez| |
+|Santiago Velandia Lozano| |
+|David Alejandro López| |
 
 ## Cómo está organizado el proyecto
 
